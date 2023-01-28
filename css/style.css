@@ -444,6 +444,7 @@ textarea {
 
 .project-details__showcase-img-cont {
   width: 50%;
+  maxwidth: 400px;
   margin-bottom: 6rem; }
 
 .project-details__showcase-img {
